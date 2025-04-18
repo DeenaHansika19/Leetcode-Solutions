@@ -43,6 +43,7 @@ Daily Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
