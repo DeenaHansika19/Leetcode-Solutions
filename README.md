@@ -10,6 +10,7 @@ Daily Leetcode Solutions
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -55,6 +56,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -146,4 +148,8 @@ Daily Leetcode Solutions
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
