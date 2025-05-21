@@ -6,6 +6,7 @@ Daily Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -73,6 +74,7 @@ Daily Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -194,6 +196,7 @@ Daily Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
