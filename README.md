@@ -59,6 +59,7 @@ Daily Leetcode Solutions
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Daily Leetcode Solutions
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
