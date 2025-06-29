@@ -16,6 +16,7 @@ Daily Leetcode Solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -79,6 +80,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -135,6 +137,7 @@ Daily Leetcode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -172,6 +175,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
