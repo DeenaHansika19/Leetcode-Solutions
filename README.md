@@ -46,6 +46,7 @@ Daily Leetcode Solutions
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -82,6 +83,7 @@ Daily Leetcode Solutions
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sorting
