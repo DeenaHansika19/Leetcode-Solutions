@@ -22,6 +22,7 @@ Daily Leetcode Solutions
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -115,6 +116,7 @@ Daily Leetcode Solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -131,6 +133,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0038-count-and-say](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -319,4 +322,9 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
