@@ -61,6 +61,7 @@ Daily Leetcode Solutions
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Daily Leetcode Solutions
 | [2998-count-symmetric-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -238,6 +241,7 @@ Daily Leetcode Solutions
 | [2915-count-of-interesting-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
 | ------- |
