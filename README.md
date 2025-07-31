@@ -11,6 +11,7 @@ Daily Leetcode Solutions
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -88,6 +89,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -300,6 +302,7 @@ Daily Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
