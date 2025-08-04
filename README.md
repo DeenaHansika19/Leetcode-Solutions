@@ -13,6 +13,7 @@ Daily Leetcode Solutions
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -126,6 +127,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -217,6 +219,7 @@ Daily Leetcode Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
