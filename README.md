@@ -77,6 +77,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0826-soup-servings) |
@@ -193,6 +194,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -331,6 +333,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
