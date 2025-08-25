@@ -11,6 +11,7 @@ Daily Leetcode Solutions
 | [0118-pascals-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -334,6 +335,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -380,6 +382,7 @@ Daily Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
 |  |
