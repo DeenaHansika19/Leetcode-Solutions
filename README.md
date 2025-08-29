@@ -98,6 +98,7 @@ Daily Leetcode Solutions
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
