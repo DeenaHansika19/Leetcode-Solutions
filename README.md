@@ -6,6 +6,7 @@ Daily Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@ Daily Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -339,6 +341,7 @@ Daily Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
