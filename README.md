@@ -124,6 +124,7 @@ Daily Leetcode Solutions
 | [1628-count-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -316,6 +317,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -402,6 +404,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
 |  |
