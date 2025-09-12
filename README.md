@@ -105,6 +105,7 @@ Daily Leetcode Solutions
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -196,6 +197,7 @@ Daily Leetcode Solutions
 | [3194-find-words-containing-character](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -441,6 +443,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -454,4 +457,8 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
