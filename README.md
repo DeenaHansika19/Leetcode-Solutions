@@ -183,6 +183,7 @@ Daily Leetcode Solutions
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Daily Leetcode Solutions
 | [3617-find-the-original-typed-string-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Daily Leetcode Solutions
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
 | ------- |
