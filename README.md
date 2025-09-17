@@ -50,6 +50,7 @@ Daily Leetcode Solutions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -175,6 +176,7 @@ Daily Leetcode Solutions
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -197,6 +199,7 @@ Daily Leetcode Solutions
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -268,6 +271,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
@@ -354,6 +358,7 @@ Daily Leetcode Solutions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -411,6 +416,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 ## Simulation
 |  |
 | ------- |
