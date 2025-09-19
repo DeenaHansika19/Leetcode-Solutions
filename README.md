@@ -86,6 +86,7 @@ Daily Leetcode Solutions
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Daily Leetcode Solutions
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -209,6 +211,7 @@ Daily Leetcode Solutions
 | [3617-find-the-original-typed-string-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -382,6 +385,7 @@ Daily Leetcode Solutions
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -421,6 +425,7 @@ Daily Leetcode Solutions
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
