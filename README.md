@@ -66,6 +66,7 @@ Daily Leetcode Solutions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -184,6 +185,7 @@ Daily Leetcode Solutions
 | [2689-rearranging-fruits](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -355,6 +357,7 @@ Daily Leetcode Solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
