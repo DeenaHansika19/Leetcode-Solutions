@@ -199,6 +199,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -301,6 +302,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
