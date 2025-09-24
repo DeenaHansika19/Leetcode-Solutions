@@ -92,6 +92,7 @@ Daily Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -168,6 +169,7 @@ Daily Leetcode Solutions
 | [0036-valid-sudoku](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -200,6 +202,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0038-count-and-say](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
