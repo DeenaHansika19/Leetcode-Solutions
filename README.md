@@ -14,6 +14,7 @@ Daily Leetcode Solutions
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -149,6 +150,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -252,6 +254,7 @@ Daily Leetcode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -306,6 +309,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -313,6 +317,7 @@ Daily Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
