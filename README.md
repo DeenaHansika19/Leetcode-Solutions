@@ -6,6 +6,7 @@ Daily Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -314,6 +315,7 @@ Daily Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -324,6 +326,7 @@ Daily Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
