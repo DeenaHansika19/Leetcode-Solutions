@@ -17,6 +17,7 @@ Daily Leetcode Solutions
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -263,6 +264,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -389,6 +391,7 @@ Daily Leetcode Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -405,6 +408,7 @@ Daily Leetcode Solutions
 | [0037-sudoku-solver](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -440,6 +444,7 @@ Daily Leetcode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 ## Backtracking
 |  |
@@ -474,6 +479,7 @@ Daily Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -513,4 +519,8 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
