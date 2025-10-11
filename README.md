@@ -76,6 +76,7 @@ Daily Leetcode Solutions
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -147,6 +148,7 @@ Daily Leetcode Solutions
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -172,6 +174,7 @@ Daily Leetcode Solutions
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -199,6 +202,7 @@ Daily Leetcode Solutions
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -273,6 +277,7 @@ Daily Leetcode Solutions
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Divide and Conquer
@@ -325,6 +330,7 @@ Daily Leetcode Solutions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -381,6 +387,7 @@ Daily Leetcode Solutions
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
