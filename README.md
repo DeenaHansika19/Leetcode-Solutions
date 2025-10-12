@@ -96,6 +96,7 @@ Daily Leetcode Solutions
 | [3791-fruits-into-baskets-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Daily Leetcode Solutions
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3830-find-closest-person](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Daily Leetcode Solutions
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +259,7 @@ Daily Leetcode Solutions
 | [3548-find-the-count-of-good-integers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -443,6 +447,7 @@ Daily Leetcode Solutions
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -530,4 +535,8 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
