@@ -45,6 +45,7 @@ Daily Leetcode Solutions
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -209,6 +210,7 @@ Daily Leetcode Solutions
 | [1834-minimum-number-of-people-to-teach](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -496,6 +498,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -505,6 +508,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 ## Memoization
