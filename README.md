@@ -59,6 +59,7 @@ Daily Leetcode Solutions
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -463,6 +464,7 @@ Daily Leetcode Solutions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -521,6 +523,7 @@ Daily Leetcode Solutions
 | [0498-diagonal-traverse](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
