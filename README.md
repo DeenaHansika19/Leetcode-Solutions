@@ -112,6 +112,7 @@ Daily Leetcode Solutions
 | [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Daily Leetcode Solutions
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -348,6 +350,7 @@ Daily Leetcode Solutions
 | [3678-design-task-manager](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -446,6 +449,7 @@ Daily Leetcode Solutions
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,6 +464,7 @@ Daily Leetcode Solutions
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -508,6 +513,7 @@ Daily Leetcode Solutions
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -550,6 +556,7 @@ Daily Leetcode Solutions
 | [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -593,6 +600,7 @@ Daily Leetcode Solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/DeenaHansika19/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
